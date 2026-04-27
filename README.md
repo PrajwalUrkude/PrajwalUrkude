@@ -1,8 +1,11 @@
 ![logo](https://github.com/PrajwalUrkude/PrajwalUrkude/blob/main/Black%20Modern%20Personal%20LinkedIn%20Banner.png)
-<h1 align="center">Hi 👋, I'm Ashutosh Mishra</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h1 align="center">Hi 👋, I'm Prajwal Urkude</h1>
+<h3 align="center">A passionate Frontend developer from India</h3>
+
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwal-urkude\&label=Profile%20views\&color=0e75b6\&style=flat" alt="prajwal-urkude" /> </p>
+
 👨‍💻 All of my projects are available at https://linktr.ee/simplified_learner
 ⚡ Fun fact I am funny😅
 <h3 align="left">Connect with me:</h3>
