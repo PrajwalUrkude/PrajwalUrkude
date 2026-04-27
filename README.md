@@ -14,11 +14,11 @@
 
 
 
-\- 🌱 I’m currently learning \*\*React.js\*\*
+ 🌱 I’m currently learning React.js
 
 
 
-\- 📫 How to reach me \*\*prajwalurkude7767@gmail.com\*\*
+ 📫 How to reach me prajwalurkude7767@gmail.com
 
 
 
