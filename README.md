@@ -14,7 +14,7 @@
 
  🌱 I’m currently learning React.js
 
-
+ ⚡ Fun fact I am funny😅
 
  📫 How to reach me prajwalurkude7767@gmail.com
 
