@@ -1,6 +1,6 @@
-!\[logo](https://github.com/PrajwalUrkude/PrajwalUrkude/blob/main/Black%20Modern%20Personal%20LinkedIn%20Banner.png)
+![logo](https://github.com/PrajwalUrkude/PrajwalUrkude/blob/main/Black%20Modern%20Personal%20LinkedIn%20Banner.png)
 
-<h1 align="center">Hi 👋, I'm Prajwal Urkude(Frontend\_Developer)</h1>
+<h1 align="center">Hi 👋, I'm Prajwal Urkude(Frontend_Developer)</h1>
 
 <h3 align="center">A passionate Frontend developer from India</h3>
 
